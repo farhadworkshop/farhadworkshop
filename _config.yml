@@ -20,8 +20,8 @@ descriptionmeta: معرفی خدمات و محصولات کارگاه برنام
 avatar: https://secure.gravatar.com/avatar/7dc47934ba942297a531525287e596c5?s=140&d=mm&r=g
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://farhadworkshop.ir
-email: farhadhpir+g02@gmail.com
-permalink: /:title/
+email: farhadworkshop.ir@gmail.com
+permalink: /:categories/:title/
 github_username: farhadhp
 # instagram_username: farhad.hassan.pour
 linkedin_username: farhadhp
